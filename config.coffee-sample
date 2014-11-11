@@ -1,0 +1,4 @@
+exports.config = {
+  apiKey: "YOUR KEY TO SL API HERE",
+  url: "http://api.sl.se/api2/TravelplannerV2/trip.json",
+};
